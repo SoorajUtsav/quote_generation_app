@@ -1,0 +1,15 @@
+{
+  "name": "quote_generation_app",
+  "version": "1.0.0",
+  "description": "creating a backend API for generating quotes using Express.js. We’ll start by using local JSON data, and later replace it with data from a MongoDB database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
